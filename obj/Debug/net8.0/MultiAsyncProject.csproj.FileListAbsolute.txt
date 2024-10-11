@@ -1,0 +1,14 @@
+D:\STUDY\WEB\MultiAsyncProject\bin\Debug\net8.0\MultiAsyncProject.exe
+D:\STUDY\WEB\MultiAsyncProject\bin\Debug\net8.0\MultiAsyncProject.deps.json
+D:\STUDY\WEB\MultiAsyncProject\bin\Debug\net8.0\MultiAsyncProject.runtimeconfig.json
+D:\STUDY\WEB\MultiAsyncProject\bin\Debug\net8.0\MultiAsyncProject.dll
+D:\STUDY\WEB\MultiAsyncProject\bin\Debug\net8.0\MultiAsyncProject.pdb
+D:\STUDY\WEB\MultiAsyncProject\obj\Debug\net8.0\MultiAsyncProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\WEB\MultiAsyncProject\obj\Debug\net8.0\MultiAsyncProject.AssemblyInfoInputs.cache
+D:\STUDY\WEB\MultiAsyncProject\obj\Debug\net8.0\MultiAsyncProject.AssemblyInfo.cs
+D:\STUDY\WEB\MultiAsyncProject\obj\Debug\net8.0\MultiAsyncProject.csproj.CoreCompileInputs.cache
+D:\STUDY\WEB\MultiAsyncProject\obj\Debug\net8.0\MultiAsyncProject.dll
+D:\STUDY\WEB\MultiAsyncProject\obj\Debug\net8.0\refint\MultiAsyncProject.dll
+D:\STUDY\WEB\MultiAsyncProject\obj\Debug\net8.0\MultiAsyncProject.pdb
+D:\STUDY\WEB\MultiAsyncProject\obj\Debug\net8.0\MultiAsyncProject.genruntimeconfig.cache
+D:\STUDY\WEB\MultiAsyncProject\obj\Debug\net8.0\ref\MultiAsyncProject.dll
